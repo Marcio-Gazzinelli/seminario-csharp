@@ -1,0 +1,14 @@
+﻿<!-- dotnet new console -->
+
+<Project Sdk="Microsoft.NET.Sdk"> <!--Define o SDK de projeto utilizado.-->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!--Indica que queremos produzir uma aplicação executável.-->
+    <TargetFramework>net10.0</TargetFramework> <!--Define o .NET 10 como plataforma de destino.-->
+    <RootNamespace>CadastroDeProduto</RootNamespace> <!--Define o namespace raiz para o projeto.-->
+    <ImplicitUsings>enable</ImplicitUsings> <!--Habilita a inclusão automática de namespaces comuns-->
+    <Nullable>enable</Nullable> <!--Habilita o recurso de referência nula-->
+  </PropertyGroup>
+
+</Project>
+

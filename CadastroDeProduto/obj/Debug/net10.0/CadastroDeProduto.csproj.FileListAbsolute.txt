@@ -1,0 +1,14 @@
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\bin\Debug\net10.0\CadastroDeProduto.exe
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\bin\Debug\net10.0\CadastroDeProduto.deps.json
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\bin\Debug\net10.0\CadastroDeProduto.runtimeconfig.json
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\bin\Debug\net10.0\CadastroDeProduto.dll
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\bin\Debug\net10.0\CadastroDeProduto.pdb
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.AssemblyInfoInputs.cache
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.AssemblyInfo.cs
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.csproj.CoreCompileInputs.cache
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.dll
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\refint\CadastroDeProduto.dll
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.pdb
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\CadastroDeProduto.genruntimeconfig.cache
+C:\Users\marci\Downloads\seminario-CSharp-reorganizado (1)\seminario-C#\CadastroDeProduto\obj\Debug\net10.0\ref\CadastroDeProduto.dll
